@@ -19,7 +19,9 @@ Git practice repository.
 
 
 
+\## Conflict Practice
 
 
 
+This line is from the conflict branch.
 
