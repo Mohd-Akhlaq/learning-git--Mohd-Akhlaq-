@@ -17,6 +17,10 @@ Git practice repository.
 
 \- nslookup — finds DNS information
 
+\- tracert — traces the path packets take to a destination
+
+\- netstat — displays active network connections and network statistics
+
 
 
 \## Conflict Practice
@@ -24,6 +28,4 @@ Git practice repository.
 
 
 This line is from the real conflict branch.
-
-
 
